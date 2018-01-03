@@ -11,11 +11,15 @@ My dual main goals are to A) study algorithms in depth and B) explore Physics. T
 ## Progress
 
 Courses Completed: 0  
-Total Points earned:
+Total Points earned: 15
 
-| Date Finished | Activity | Points | Links |
-| ------------- | -------- | ------ | ----- |
-|               |          |        |       |
+| Date Finished | Activity  | Points | Links                                                                                          |
+| ------------- | --------- | ------ | ---------------------------------------------------------------------------------------------- |
+| 01-03-2018    | Blog Post | 15     | [Blog post kicking off Speedstudy](https://medium.com/p1xts-blog/speedstudy-2018-295d988f0c5c) |
+|               |           |        |                                                                                                |
+|               |           |        |                                                                                                |
+|               |           |        |                                                                                                |
+|               |           |        |                                                                                                |
 
 ### MITOCW Computer Science
 
