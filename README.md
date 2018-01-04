@@ -11,7 +11,7 @@ My dual main goals are to A) study algorithms in depth and B) explore Physics. T
 ## Progress
 
 Courses Completed: 0  
-Total Points earned: 325
+Total Points earned: 335
 
 | Date Finished | Activity                  | Points | Links                                                                                                         |
 | ------------- | ------------------------- | ------ | ------------------------------------------------------------------------------------------------------------- |
@@ -20,11 +20,20 @@ Total Points earned: 325
 | 01-04-2018    | Duolingo (French level 2) | 100    | [Duolingo](https://www.duolingo.com/P1xt)                                                                     |
 | 01-04-2018    | Duolingo (French level 3) | 100    | [Duolingo](https://www.duolingo.com/P1xt)                                                                     |
 | 01-04-2018    | Duolingo (French level 4) | 100    | [Duolingo](https://www.duolingo.com/P1xt)                                                                     |
+| 01-04-2018    | Workout                   | 10     | [Body Beast](https://www.beachbody.com/product/fitness_programs/extreme/body-beast-workout.do) - Shoulders    |
+| Working on    | Course                    | 500    | Introduction to Computer Science and Programming in Python                                                    |
+|               |                           |        |                                                                                                               |
+|               |                           |        |                                                                                                               |
+|               |                           |        |                                                                                                               |
+|               |                           |        |                                                                                                               |
+|               |                           |        |                                                                                                               |
+|               |                           |        |                                                                                                               |
+|               |                           |        |                                                                                                               |
 |               |                           |        |                                                                                                               |
 
 ### MITOCW Computer Science
 
-* [ ] [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+* [ ] Currently in Progress - [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 
 * [ ] [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 
