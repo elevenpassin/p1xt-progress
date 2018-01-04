@@ -10,6 +10,7 @@ My dual main goals are to A) study algorithms in depth and B) explore Physics. T
 
 ## Progress
 
+Current Course: [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)  
 Courses Completed: 0  
 Total Points earned: 335
 
