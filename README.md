@@ -11,7 +11,7 @@ My dual main goals are to A) study algorithms in depth and B) explore Physics. T
 ## Progress
 
 Courses Completed: 0  
-Total Points earned: 225
+Total Points earned: 325
 
 | Date Finished | Activity                  | Points | Links                                                                                                         |
 | ------------- | ------------------------- | ------ | ------------------------------------------------------------------------------------------------------------- |
@@ -19,6 +19,7 @@ Total Points earned: 225
 | 01-03-2018    | Workout                   | 10     | [Body Beast](https://www.beachbody.com/product/fitness_programs/extreme/body-beast-workout.do) - Back and Bis |
 | 01-04-2018    | Duolingo (French level 2) | 100    | [Duolingo](https://www.duolingo.com/P1xt)                                                                     |
 | 01-04-2018    | Duolingo (French level 3) | 100    | [Duolingo](https://www.duolingo.com/P1xt)                                                                     |
+| 01-04-2018    | Duolingo (French level 4) | 100    | [Duolingo](https://www.duolingo.com/P1xt)                                                                     |
 |               |                           |        |                                                                                                               |
 
 ### MITOCW Computer Science
