@@ -11,15 +11,15 @@ My dual main goals are to A) study algorithms in depth and B) explore Physics. T
 ## Progress
 
 Courses Completed: 0  
-Total Points earned: 15
+Total Points earned: 25
 
-| Date Finished | Activity  | Points | Links                                                                                          |
-| ------------- | --------- | ------ | ---------------------------------------------------------------------------------------------- |
-| 01-03-2018    | Blog Post | 15     | [Blog post kicking off Speedstudy](https://medium.com/p1xts-blog/speedstudy-2018-295d988f0c5c) |
-|               |           |        |                                                                                                |
-|               |           |        |                                                                                                |
-|               |           |        |                                                                                                |
-|               |           |        |                                                                                                |
+| Date Finished | Activity  | Points | Links                                                                                                         |
+| ------------- | --------- | ------ | ------------------------------------------------------------------------------------------------------------- |
+| 01-03-2018    | Blog Post | 15     | [Blog post kicking off Speedstudy](https://medium.com/p1xts-blog/speedstudy-2018-295d988f0c5c)                |
+| 01-03-2018    | Workout   | 10     | [Body Beast](https://www.beachbody.com/product/fitness_programs/extreme/body-beast-workout.do) - Back and Bis |
+|               |           |        |                                                                                                               |
+|               |           |        |                                                                                                               |
+|               |           |        |                                                                                                               |
 
 ### MITOCW Computer Science
 
