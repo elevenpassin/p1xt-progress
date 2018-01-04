@@ -21,6 +21,7 @@
 \RequirePackage{keycommand}
 \RequirePackage{fancyhdr} 			  % Adaptation of the footers
 \RequirePackage[most]{tcolorbox}  % used for some boxes
+\usepackage{microtype}
 
 % Load other modules of this package
 \usepackage{lib/dndmonster}
@@ -30,8 +31,22 @@
 \usepackage{lib/dndtable}
 \usepackage{lib/dndquote}
 \usepackage{lib/dndpaperbox}
+\usepackage[margin=1in]{geometry} 
+\usepackage{amsmath,amsthm,amssymb, graphicx, multicol, array}
 
+%
+% Problems/Solutions
 
+\renewcommand*{\qedsymbol}{$\blacksquare$}
+
+\newenvironment{problem}[2][Problem]{\begin{trivlist}
+\item[\hskip \labelsep {\bfseries #1}\hskip \labelsep {\bfseries #2.}]}{\end{trivlist}}
+
+\newenvironment{solution}
+  {\begin{proof}[Solution.]}
+  {\end{proof}}  
+  
+  
 %
 % Options
 %
@@ -94,8 +109,8 @@
 \pagestyle{fancy}
 
 \footskip = 48pt %push the footer down so it fits with the decal from the bg-img
-\fancyhfoffset[LE]{28pt} % push the footer left on even pages so it fits the decal
-\fancyhfoffset[RO]{30pt} % push the footer right on odd pages so it fits the decalbg-img
+\fancyhfoffset[LE]{60pt} % push the footer left on even pages so it fits the decal
+\fancyhfoffset[RO]{60pt} % push the footer right on odd pages so it fits the decalbg-img
 \renewcommand{\headrulewidth}{0.0pt} %no rule for header
 \renewcommand{\footrulewidth}{0.0pt} %no rule for footer
 
@@ -104,7 +119,7 @@
 
 \fancyfoot[LE]{
 	\textcolor{uppergold}{\thepage}
-	\hspace*{0.9cm}
+	\hspace*{1cm}
 	\raisebox{12pt}{\textsc{\textcolor{uppergold}{\nouppercase\leftmark}}}
 	}
 
@@ -125,6 +140,7 @@
     \draw [rulered, fill=rulered] (0, 0) --(0,0.1) -- (\textwidth, 0.08);
   \end{tikzpicture}
 }
+
 
 
 % Either hilariously, or infuriatingly, the \ifcommandkey
@@ -158,7 +174,7 @@
     numberstyle=\tiny\color{codegray},
     stringstyle=\color{codepurple},
     basicstyle=\footnotesize,
-    breakatwhitespace=false,         
+    breakatwhitespace=true,         
     breaklines=true,                 
     captionpos=b,                    
     keepspaces=true,                 

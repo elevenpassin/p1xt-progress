@@ -2,14 +2,14 @@
 % rather than alternate every other.
 %
 % Note that the article class does not have chapters.
-\documentclass[10pt,twoside,twocolumn,openany]{book}
+\documentclass[10pt,twoside,onecolumn,openany]{book}
 \usepackage{parskip}
 \usepackage[bg-letter]{dnd} % Options: bg-a4, bg-letter, bg-full, bg-print, bg-none.
 \usepackage[english]{babel}
 \usepackage[utf8]{inputenc}
 
 
-\begin{document}
+\begin{document}\sloppy
 
 \include{title}
 \fontfamily{ppl}\selectfont % Set text font
@@ -18,7 +18,9 @@
 \newpage
 
 % Include all chapters from the various courses/books/etc
-\include{courses/18.01/index}
+%\include{courses/18.01/18_01}
+%\include{courses/8.01/8_01}
+\include{courses/6.0001/6_0001}
 
 
 \end{document}

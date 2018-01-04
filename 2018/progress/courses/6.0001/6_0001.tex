@@ -1,0 +1,136 @@
+\twocolumn
+\chapter{Course: 6.0001}
+\section{Notes}
+
+
+All knowledge falls into two categories -  \textbf{Declarative knowledge} (statements of fact) and \textbf{Imperative knowledge} (instructions "how to" compute something). 
+
+An \textbf{Algorithm} is a list of instructions that describe a computation that when executed on a set of inputs will proceed through a set of well-defined states and eventually produce an output.
+
+\textbf{Fixed-program computers} only have the code \\ necessary to do one thing, whereas \textbf{stored \\ program computers} are more flexible and execute any computation in their instruction set.
+
+\textbf{Syntax} - which strings of characters and symbols are well formed. 
+
+\textbf{Semantics} - associates a meaning with each syntactically correct string that has no static semantic errors. 
+
+\textbf{Static Semantics} - which syntactically valid \\ strings have meaning. 
+
+\textbf{Scaler objects} are indivisible, wheras \textbf{non-scalar objects} such as strings have internal structure. Python's four types of scalar objects are int, float, bool, and None. 
+
+\textbf{Objects} and \textbf{Operators} are combined to form \textbf{Expressions} which each evaluate to an object of some type.
+
+\textbf{Operations on strings, tuples, ranges and lists} - seq[i],len(seq), seq1+seq2, n*seq, seq[start:end], e in seq, e not in seq, for e in seq.
+
+\textbf{Strings} - can be indexed into, sliced, and length \\ can be found with the len function. Contain \\ only characters. Methods include: s.count(s1), \\ s.find(s1), s.rfind(s1), s.index(s1), s.rindex(s1), \\ s.lower(), s.replace(old, new), s.rstrip(), s.split(d).
+
+\textbf{Tuples} - immutable ordered sequences of \\ elements, like strings, but can be ordered \\ sequences of any type, not just characters. Format - ('a', 'b', 1, 1.2, 'a'). Can be concatenated, indexed and sliced like strings.
+
+\textbf{Ranges} - immutable like strings and tuples but contain only integers. The range function returns an object of type range and takes three arguments, start, stop and step. Step may be negative. Step default is 1. Start defaults to 0.
+
+\textbf{Lists} - like tuples and can contain collections composed of any type of object, but use square brackets and are mutable. Use id() to get the id of a list object. Can use append(e), count(e), insert(i,e), extend(L1), remove(e), index(e), pop(i), sort(), reverse().
+
+\textbf{List Comprehension} - creates a new list in which each element is the result of applying a given operation to a value from a sequence (another list). Like .map() in JavaScript. Syntax: L = [x**2 for x in range(1, 7)] will cause L to contain [1, 4, 9, 16, 25, 36].
+
+\textbf{Dictionaries} - objects of type dict, like lists but are indexed as key/value pairs. Like lists, are mutable. Use keys that are \textbf{hashable types} which include all immutable data types, but no mutable ones. Methods avaiable on dicts: len(d), d.keys(), d.values(), k in d, d[k], d.get(k, v), d[k]=v, del d[k], for k in d.
+
+\textbf{Classes} - used to implement data abstractions, define an interface between the data type and the rest of the program, comprised of both objects and available operations on those objects. Can be instantiated to create a new instance of the class, and uses dot notation to access attributes associated with the class. Special methods \_\_init\_\_ and \_\_str\_\_ initialize an object of the class, and return a string representation of the object. \textbf{Inheritance} allows an class of one type to inherit attributes from another class. Subclases extend the behavior of their superclass. The Subclass should respond properly to any request that it's superclass could handle, the converse is not necessarily true.
+
+\textbf{Encapsulation} - bundling together data attributes and the methods for operating on them.
+
+\textbf{Information Hiding} - how methods in a class are implemented are irrelevant to clients of that class so long as they conform to the specification they agree to.
+
+\textbf{Generators} - any function containing a yield statement. Typically used in conjuction with for statements.
+
+\textbf{Lambda expression} - anonymous function, syntax: lambda <variables>: expression
+
+\textbf{Floats} - are approximations of values containing a fractional or decimal amount. May not be exact. Significant digits denote the precision. An approximation is the rounded value.
+
+\textbf{Type Casting} allows for conversion between types. You can convert one type to another by using the name of the result type you want. int('23') converts the string 23 to the integer 23.
+
+\textbf{Conditionals} allow a program to branch depending on some condition (if x do y, else do z)
+
+\textbf{Iteration} allows a program to repeat some series of instructions until a condition is met.
+
+\textbf{Computational Complexity} is the study of the intrinsic difficulty of problems. Typically uses the asymptotic notation "Big O" which is used to give an upper bound on the order of growth of a function.
+
+\textbf{Constant time} implies that the running time of a program does not increase with the size of the input to the program.
+
+\textbf{Bisection search} - approximates by making educated guess at high and low values, checking the midpoint between the two, and then replacing either the high or low value with the mid value and repeating until a "close enough" value is found. Effectively halves the search domain each iteration.
+
+\textbf{Successive approximation} - Newton-Raphston \\ method for finding the square root \\ $guess-\frac{p(guess)}{p'(guess)}$ \\ is a better approximation for the root of a polynomial than $guess$.
+
+\textbf{Recursion} - when a function calls itself to iteratively solve a smaller subset of the same problem.
+
+\textbf{Modules} - a .py file containing Python definitions and statements. A program may consist of many modules.
+
+\textbf{Files} - can be accessed via open(fh, 'w|r|a'), \\ fh.read(), fh.readline(), fh.readlines(), fh.write(s), fh.writeLines(S), fh.close()
+
+\textbf{Testing} - running a program to determine whether it works as intended. The intention is to show what bugs exist. \textbf{Glass box} tests paths through a program whereas \textbf{Black box} tests paths through the specification. Unit testing tests individual functions work properly, integration testing tests the program as a whole. Regression testing ensures that what used to work still works. Drivers simulate part of the program that use the unit being tested, stubs simulate parts of the program used by the unit being tested.
+
+\textbf{Exception} - something that does not conform to the norm. Should be handled by the program. Use try: except <exception>: block to handle.
+
+\textbf{Assertions} - confirm that the state of a computation is as expected. Will raise an AssertionError exception if it evaluates to False.
+
+\textbf{Debugging} - attempting to fix a program that you know isn't working properly.
+
+print() - prints to  console 
+
+input('prompt string') - gets input from the user
+
+type(X) - returns the type of X
+
+while <condition>: - loops through indented statements while the condition is true
+
+for <item in list: - loops through each item, use break to exit the loop early
+
+def <functionName(x, y)>: - defines a function, return exits the function, can pass parameters by position or keyword (like y='something' as a parameter), can set default in parameter list, like y='something' to be used when no y is passed. \textbf{Higher-order functions} take another function as an argument.
+
+
+
+
+
+\textbf{Read everything through Chapter 10. Currently at 8.2.1}
+
+\newpage
+\onecolumn
+\section{Problem Set 0}
+
+\begin{problem}{}
+\end{problem}
+\begin{solution}
+\end{solution}
+
+\section{Problem Set 1}
+
+\begin{problem}{}
+\end{problem}
+\begin{solution}
+\end{solution}
+
+\section{Problem Set 2}
+
+\begin{problem}{}
+\end{problem}
+\begin{solution}
+\end{solution}
+
+\section{Problem Set 3}
+
+\begin{problem}{}
+\end{problem}
+\begin{solution}
+\end{solution}
+
+\section{Problem Set 4}
+
+\begin{problem}{}
+\end{problem}
+\begin{solution}
+\end{solution}
+
+\section{Problem Set 5}
+
+\begin{problem}{}
+\end{problem}
+\begin{solution}
+\end{solution}
