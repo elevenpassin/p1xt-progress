@@ -12,7 +12,7 @@ My dual main goals are to A) study algorithms in depth and B) explore Physics. T
 
 Current Course: [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)  
 Courses Completed: 0  
-Total Points earned: 335
+Total Points earned: 545
 
 | Date Finished | Activity                  | Points | Links                                                                                                         |
 | ------------- | ------------------------- | ------ | ------------------------------------------------------------------------------------------------------------- |
@@ -25,7 +25,7 @@ Total Points earned: 335
 | WIP           | Course                    | 500    | Introduction to Computer Science and Programming in Python                                                    |
 | 01-05-2018    | Duolingo (French level 5) | 100    | [Duolingo](https://www.duolingo.com/P1xt)                                                                     |
 | 01-05-2018    | Duolingo (French level 6) | 100    | [Duolingo](https://www.duolingo.com/P1xt)                                                                     |
-|               |                           |        |                                                                                                               |
+| 01-05-2018    | Workout                   | 10     | Les Mills Combat (30 minute)                                                                                  |
 |               |                           |        |                                                                                                               |
 |               |                           |        |                                                                                                               |
 |               |                           |        |                                                                                                               |
