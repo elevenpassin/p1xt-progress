@@ -22,7 +22,9 @@ Total Points earned: 335
 | 01-04-2018    | Duolingo (French level 3) | 100    | [Duolingo](https://www.duolingo.com/P1xt)                                                                     |
 | 01-04-2018    | Duolingo (French level 4) | 100    | [Duolingo](https://www.duolingo.com/P1xt)                                                                     |
 | 01-04-2018    | Workout                   | 10     | [Body Beast](https://www.beachbody.com/product/fitness_programs/extreme/body-beast-workout.do) - Shoulders    |
-| Working on    | Course                    | 500    | Introduction to Computer Science and Programming in Python                                                    |
+| WIP           | Course                    | 500    | Introduction to Computer Science and Programming in Python                                                    |
+| 01-05-2018    | Duolingo (French level 5) | 100    | [Duolingo](https://www.duolingo.com/P1xt)                                                                     |
+| 01-05-2018    | Duolingo (French level 6) | 100    | [Duolingo](https://www.duolingo.com/P1xt)                                                                     |
 |               |                           |        |                                                                                                               |
 |               |                           |        |                                                                                                               |
 |               |                           |        |                                                                                                               |
