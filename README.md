@@ -12,7 +12,7 @@ My dual main goals are to A) study algorithms in depth and B) explore Physics. T
 
 Current Course: [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)  
 Courses Completed: 0  
-Total Points earned: 545
+Total Points earned: 745
 
 | Date Finished | Activity                  | Points | Links                                                                                                         |
 | ------------- | ------------------------- | ------ | ------------------------------------------------------------------------------------------------------------- |
@@ -26,8 +26,8 @@ Total Points earned: 545
 | 01-05-2018    | Duolingo (French level 5) | 100    | [Duolingo](https://www.duolingo.com/P1xt)                                                                     |
 | 01-05-2018    | Duolingo (French level 6) | 100    | [Duolingo](https://www.duolingo.com/P1xt)                                                                     |
 | 01-05-2018    | Workout                   | 10     | Les Mills Combat (30 minute)                                                                                  |
-|               |                           |        |                                                                                                               |
-|               |                           |        |                                                                                                               |
+| WIP           | Book                      | 200    | Grokking Algorithms                                                                                           |
+| 01-06-2018    | Book                      | 200    | Incidents in the Life of a Slave Girl                                                                         |
 |               |                           |        |                                                                                                               |
 |               |                           |        |                                                                                                               |
 |               |                           |        |                                                                                                               |
@@ -36,7 +36,7 @@ Total Points earned: 545
 
 ### MITOCW Computer Science
 
-* [ ] Currently in Progress - [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+* [ ] __Currently in Progress -__ [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 * [ ] [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 * [ ] [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
 * [ ] [Introduction to Electrical Engineering and Computer Science I](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)
@@ -162,3 +162,213 @@ Total Points earned: 545
 * Clone your favorite browser extension, or create one you wish existed.
 * Clone your favorite mobile app, or create one you wish existed.
 * Any project you want to build - the above are all just ideas for if you're stuck for an idea - really, just build what you want!
+
+## Books to read (pick and choose, no particular order)
+
+### Algorithms Texts
+
+* [ ] Algorithms in a Nutshell
+* [ ] Data Structures and Algorithms Made Easy
+* [ ] A Common Sense Guide to Data Structures and Algorithms
+* [ ] Algorithms Iluminated Part 1
+* [ ] Algorithms Part 1
+* [ ] Algorithms Part 2
+* [ ] An Introduction to the Analysis of Algorithms
+* [ ] Algorithms in C Parts 1-4
+* [ ] Algorithms in C Part 5
+* [ ] Algorithms in C++ Parts 1-4
+* [ ] Algorithms in C++ Part 5
+* [ ] Learning JavaScript Data Structures and Algorithms
+* [ ] Problem Solving in Data Structures and Algorithms using C++
+* [ ] Data Structures and Algorithms with Python
+* [ ] Data Structures and Algorithms with JavaScript
+* [ ] Think Data Structures
+* [ ] Computational Probability
+* [ ] Graphs Algorithms and Optimization
+* [ ] Mobile Applications Development with Android: Technologies and Algorithms
+* [ ] Algorithmic Game Theory
+* [ ] Twenty Lectures on Algorithmic Game Theory
+* [ ] __Currently in Progress -__ Grokking Algorithms
+* [ ] Unsupervised Learning Algorithms
+* [ ] Elementary Functions: Algorithms and Implementation
+* [ ] Algorithms and Networking for Computer Games
+* [ ] Algorithms: A functional programming approach
+* [ ] Data Structure Practice for Collegiate Programming Contests
+* [ ] The Colossal Book of Mathematics
+* [ ] Analytic Combinatorics
+* [ ] Everyday Data Structures
+
+### Programming Texts
+
+* [ ] 21st Century C: : C Tips from the New School
+* [ ] Advanced Programming in the UNIX Environment
+* [ ] C Interfaces and Implementations
+* [ ] Expert C Programming: Deep C Secrets
+* [ ] Programming in C
+* [ ] The C Programming Language
+* [ ] C: From Theory to Practice
+* [ ] Pointers in C
+* [ ] Shell Programming in Unix, Linux, and OSX
+* [ ] Build Your Own Lisp.
+* [ ] C++ Coding Standards
+* [ ] C++ Concurrency In Action
+* [ ] Effective C++
+* [ ] Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14
+* [ ] Effective STL
+* [ ] Exceptional C++
+* [ ] More Exceptional C++
+* [ ] Exceptional C++ Style
+* [ ] Modern C++ Design
+* [ ] C++ Template Metaprogramming
+* [ ] C++ Templates: the Complete Guide
+* [ ] C++ Concurrency in Action
+* [ ] Advanced Metaprogramming in Classic C++
+* [ ] The C++ Standard Library
+* [ ] Programming: Principles and Practice Using C++
+* [ ] C++ Programming: Program Design including Data Structures
+* [ ] Introducing Go
+* [ ] Go Systems Programming
+* [ ] Functional Reactive Programming
+* [ ] Developing Web Apps with Haskell and Yesod
+* [ ] Haskell Design Patterns
+* [ ] Learn You a Haskell for Great Good
+* [ ] Parallel and Concurrent Programming in Haskell
+* [ ] Real World Haskell
+* [ ] Android Programming - The Big Nerd Ranch Guide
+* [ ] Computer Science: An Interdisciplinary Approach
+* [ ] Core Java
+* [ ] Effective Java
+* [ ] Hello, Android
+* [ ] Java Concurrency in Practice
+* [ ] Professional Android
+* [ ] Thinking In Java
+* [ ] Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript
+* [ ] JavaScript Allonge
+* [ ] JavaScript Patterns: Build Better Applications with Coding and Design Patterns
+* [ ] Secrets of the JavaScript Ninja
+* [ ] YDKJS
+* [ ] Fluent Python: Clear, Concise, and Effective Programming
+* [ ] Python Cookbook
+* [ ] Python Crash Course: A Hands-On, Project-Based Introduction to Programming
+* [ ] Think Python
+* [ ] The Hitchhiker's Guide to Python
+* [ ] Computer Science Distilled
+* [ ] Fortran for Scientists and Engineers
+
+### Software Engineering Texts
+
+* [ ] Code Complete: A Practical Handbook of Software Construction
+* [ ] The Pragmatic Programmer: From Journeyman to Master
+* [ ] The Mythical Man-Month
+* [ ] Refactoring: Improving the Design of Existing Code
+* [ ] Clean Code: A Handbook of Agile Software Craftsmanship
+* [ ] Introduction to Algorithms
+* [ ] Patterns of Enterprise Application Architecture
+* [ ] Peopleware: Productive Projects and Teams
+* [ ] Working Effectively with Legacy Code
+* [ ] Design Patterns: Elements of Reusable Object-Oriented Software
+* [ ] Code: The Hidden Language of Computer Hardware and Software
+* [ ] Domain-Driven Design: Tackling Complexity in the Heart of Software
+* [ ] Head First Design Patterns
+* [ ] Structure and Interpretation of Computer Programs
+* [ ] Programming Pearls
+* [ ] Coders at Work: Reflections on the Craft of Programming
+* [ ] The C Programming Language
+* [ ] The Art of Computer Programming
+* [ ] Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation
+* [ ] Rapid Development: Taming Wild Software Schedules
+* [ ] Agile Software Development, Principles, Patterns, and Practices
+* [ ] The Design of Everyday Things: Revised and Expanded Edition
+* [ ] Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability
+* [ ] Gödel, Escher, Bach: An Eternal Golden Braid
+* [ ] The Clean Coder: A Code of Conduct for Professional Programmers
+* [ ] User Stories Applied: For Agile Software Development
+* [ ] Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions
+* [ ] Release It!: Design and Deploy Production-Ready Software
+* [ ] The Passionate Programmer: Creating a Remarkable Career in Software Development
+* [ ] About Face: The Essentials of Interaction Design
+* [ ] Designing Web Usabillity
+* [ ] A Pattern Language: Towns, Buildings, ruction (Center for Environmental Structure)
+* [ ] The Visual Display of Quantitative Information
+* [ ] Extreme Programming Explained: Embrace Change
+* [ ] Smalltalk Best Practice Patterns
+* [ ] Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives
+* [ ] Refactoring to Patterns
+* [ ] Agile Estimating and Planning
+* [ ] Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values
+* [ ] Cracking the Coding Interview: 189 Programming Questions and Solutions
+* [ ] Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman
+* [ ] Pragmatic Thinking and Learning: Refactor Your Wetware
+* [ ] The Art of Agile Development
+* [ ] Soft Skills: The software developer's life manual
+* [ ] Succeeding with Agile: Software Development Using Scrum
+* [ ] Growing Object-Oriented Software, Guided by Tests
+* [ ] Java Concurrency in Practice
+* [ ] Software Estimation: Demystifying the Black Art (Developer Best Practices)
+* [ ] Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14
+* [ ] Algorithms
+* [ ] Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages (Pragmatic Programmers)
+* [ ] Debugging: The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems
+* [ ] Rework
+* [ ] Cracking the IT Architect Interview
+* [ ] Coding Interview Questions
+
+### Literature
+
+* [ ] A Brief History of the Western World
+* [ ] A comparative history of world philosophy : from the Upanishads to Kant
+* [ ] A Farewell To Arms
+* [ ] A Room of One's Own
+* [ ] Alice's Adventures in Wonderland
+* [ ] America: a Narrative History
+* [ ] Antigone
+* [ ] Apology
+* [ ] Autobiography Franklin, Benjamin
+* [ ] Beloved
+* [ ] Candide
+* [ ] Confessions
+* [ ] Ethics
+* [ ] Faust
+* [ ] Frankenstein
+* [ ] Hamlet
+* [ ] Heart of Darkness
+* [ ] Huckleberry Finn
+* [ ] __Currently in Progress -__ Incidents in the Life of a Slave Girl
+* [ ] Invisible Man
+* [ ] Kokoro
+* [ ] Letter From the Birmingham Jail
+* [ ] Leviathan
+* [ ] Moby Dick
+* [ ] Monkey: The Journey to the West
+* [ ] My Name is Red
+* [ ] Native Son
+* [ ] Nervous Conditions
+* [ ] Neuromancer
+* [ ] Oedipus
+* [ ] On Liberty
+* [ ] One Hundred Years of Solitude
+* [ ] Orientalism
+* [ ] Origin of Species
+* [ ] Palace Walk: The Cairo Trilogy, Volume 1
+* [ ] Paradise Lost
+* [ ] Power
+* [ ] Republic
+* [ ] Steppenwolf
+* [ ] The Alchemist
+* [ ] The Arabian Nights
+* [ ] The Art of War
+* [ ] The Book of Fantasy
+* [ ] The Catcher in the Rye
+* [ ] The Clash of Civilizations
+* [ ] The Communist Manifesto
+* [ ] The Iliad
+* [ ] The Importance of Being Earnest
+* [ ] The Odyssey
+* [ ] The Prince
+* [ ] The Prophet
+* [ ] The Satanic Verses
+* [ ] The Structure of Scientific Revolutions
+* [ ] The Tale of Kieu: A bilingual edition of Nguyen Du's Truyen Kieu
+* [ ] Things Fall Apart
+* [ ] Utilitarianism
+* [ ] Waiting for the Barbarians
