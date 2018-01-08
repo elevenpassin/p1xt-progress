@@ -2,8 +2,62 @@
 \chapter{Book: Grokking Algorithms}
 \section{Notes}
 \subsection{Introduction to Algorithms}
+\subsubsection{Binary search}
+\begin{itemize}
+\item requires a sorted list of elements
+\item returns the position within the list of the element being searched for
+\item returns null if the element being searched for isn't present in the list
+\item mechanic: eliminate half the list by comparing the search input to the element at the mid point of the list to determine whether the element is in the first half (is less than mid) or second half (is greater than mid). Continue eliminating half repeatedly until the search input equals the value at mid, or there are no more elements in the list to check (value does not exist in list).
+\end{itemize}
+
+\subsubsection{Logarithms}
+
+\begin{itemize}
+\item the flip side of exponents 
+\item $\log_{2}8 == 3$ because $2^3 == 8$
+\end{itemize}
+
+\subsubsection{Big O notation}
+
+\begin{itemize}
+\item examines how fast an algorithm is 
+\item compares the number of operations to determine how fast the algorithm grows 
+\item establishes a worst case run time
+\item efficiency, fastest to slowest
+\begin{itemize} 
+\item $O(log n)$ - log time (Binary search) 
+\item $O(n)$ - linear time (Simple search) 
+\item $O(n * log n)$ - (quicksort) 
+\item $O(n^2)$ - (selection sort) 
+\item $O(n!)$ - (travelling salesman) 
+\end{itemize}
+\end{itemize}
 \subsection{Selection sort}
+\begin{itemize}
+\item $O(n^2)$
+\item find biggest item in list, add to new list
+\item repeat until all items transferred to new list
+\end{itemize}
+\subsection{Arrays and linked lists}
+
+\begin{itemize}
+\item Arrays
+\begin{itemize}
+\item Allow fast reads
+\end{itemize}
+\item Linked lists
+\item All elements must be the same type
+\item All elements are stored contiguously \\ in memory
+\begin{itemize}
+\item Allow fast inserts
+\item Allow fast deletes
+\item Each item is stored independently in memory
+\end{itemize}
+\end{itemize}
+
+
 \subsection{Recursion}
+A recursive function calls itself, passing the new instance a smaller subset of the same problem. The function must be supplied a "base case" to indicate that some value be returned rather than a new recursion so as to avoid an infinite loop.
 \subsection{Quicksort}
 \subsection{Hash tables}
 \subsection{Breadth-first search}
@@ -55,49 +109,71 @@ O(n)
 \begin{problem}{2.1}
 \end{problem}
 \begin{solution}
+A linked lists - they'll have fast inserts, plus since every element will need to be read, array advantage on reads won't apply.
 \end{solution}
 
 \begin{problem}{2.2}
 \end{problem}
 \begin{solution}
+A linked list - the operation is insert heavy and only needs to shift the first element off the list
 \end{solution}
 
 \begin{problem}{2.3}
 \end{problem}
 \begin{solution}
+A sorted array - for selection sort it's better to use an array because with it, you can immediately access the mid-point.
 \end{solution}
 
 \begin{problem}{2.4}
 \end{problem}
 \begin{solution}
+The downside is that inserts into an array is slow. So though retrieving data would be quicker, insertiing it would be slower than if a linked list were used.
 \end{solution}
 
 \begin{problem}{2.5}
 \end{problem}
 \begin{solution}
+An array of linked lists would be faster than arrays for inserting, slower than arrays for searching and faster than linked lists for searching.
 \end{solution}
 
 
 \begin{problem}{3.1}
 \end{problem}
 \begin{solution}
+The greet function is called, it calls greet2, greet2 completes, then greet completes
 \end{solution}
 
 
 \begin{problem}{3.2}
 \end{problem}
 \begin{solution}
+Eventually the program will fill the call stack and abort.
 \end{solution}
 
 
 \begin{problem}{4.1}
 \end{problem}
-\begin{solution}
+\begin{solution} 
+Python: 
+\begin{lstlisting}[language=Python]
+def sum(list):
+	if list == []:
+		return 0
+	return list[0] + sum(list[1:])
+\end{lstlisting}
 \end{solution}
 
 \begin{problem}{4.2}
 \end{problem}
 \begin{solution}
+ 
+Python: 
+\begin{lstlisting}[language=Python]
+def count(list):
+	if list == []:
+		return 0
+	return list[0] + count(list[1:])
+\end{lstlisting}
 \end{solution}
 
 \begin{problem}{4.3}
