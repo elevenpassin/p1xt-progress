@@ -250,7 +250,7 @@ Total Points earned: 745
 * [ ] Fluent Python: Clear, Concise, and Effective Programming
 * [ ] Python Cookbook
 * [ ] Python Crash Course: A Hands-On, Project-Based Introduction to Programming
-* [ ] Think Python
+* [ ] __Currently in Progress -__ Think Python
 * [ ] The Hitchhiker's Guide to Python
 * [ ] Computer Science Distilled
 * [ ] Fortran for Scientists and Engineers
@@ -333,7 +333,7 @@ Total Points earned: 745
 * [ ] Hamlet
 * [ ] Heart of Darkness
 * [ ] Huckleberry Finn
-* [ ] __Currently in Progress -__ Incidents in the Life of a Slave Girl
+* [x] Incidents in the Life of a Slave Girl
 * [ ] Invisible Man
 * [ ] Kokoro
 * [ ] Letter From the Birmingham Jail
@@ -364,7 +364,7 @@ Total Points earned: 745
 * [ ] The Iliad
 * [ ] The Importance of Being Earnest
 * [ ] The Odyssey
-* [ ] The Prince
+* [ ] __Currently in Progress -__ The Prince
 * [ ] The Prophet
 * [ ] The Satanic Verses
 * [ ] The Structure of Scientific Revolutions
