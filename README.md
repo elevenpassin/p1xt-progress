@@ -28,7 +28,7 @@ Total Points earned: 745
 | 01-05-2018    | Workout                   | 10     | Les Mills Combat (30 minute)                                                                                  |
 | WIP           | Book                      | 200    | Grokking Algorithms                                                                                           |
 | 01-06-2018    | Book                      | 200    | Incidents in the Life of a Slave Girl                                                                         |
-|               |                           |        |                                                                                                               |
+| 01-07-2018    | Workout                   | 10     | Body Beast - Chest and Tris                                                                                   |
 |               |                           |        |                                                                                                               |
 |               |                           |        |                                                                                                               |
 |               |                           |        |                                                                                                               |
